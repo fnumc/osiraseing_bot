@@ -3,8 +3,8 @@ Bolt for pythonを使用したSlack bot
 オンラインIDEの[Glitch](https://glitch.com/dashboard)の上で動きます.  
 
 # 導入手順
-   [GlitchとBolt for Pythonを使ってSlackアプリを爆速開発 - Zenn](https://zenn.dev/cazziwork/articles/50ac3df78096d3a9a44c)も参考に
-
+   [GlitchとBolt for Pythonを使ってSlackアプリを爆速開発 - Zenn](https://zenn.dev/cazziwork/articles/50ac3df78096d3a9a44c)も参考に  
+  `/.env`にSLACK_SIGNING_SECRETとSLACK_BOT_TOKENを追加してください
 
 # なにができる
 | Command                     | Action                               | 
