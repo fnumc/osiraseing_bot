@@ -1,0 +1,4 @@
+{
+  "install": "pip3 install --force-reinstall -r ./requirements.txt",
+  "start": "python3 index.py"
+}

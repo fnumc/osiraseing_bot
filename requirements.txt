@@ -1,0 +1,3 @@
+aiohttp
+slack-bolt
+pysqlite3
